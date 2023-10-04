@@ -67,6 +67,10 @@ body {
     right: 50px;
     margin-left: 12px;
 }
+#sec
+{
+      color: blue;
+}
 
 #ampm {
     color: orange;
